@@ -1,1 +1,1 @@
-# Handdrawn-number-recognition-tool
+# Handwritten-number-recognition-tool
